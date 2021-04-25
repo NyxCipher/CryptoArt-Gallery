@@ -1,3 +1,6 @@
+# [The Metaverse: According to Proteu5]
+This is a Forked Edition of Material-Kit-React. Copyrights are intact and I have left their Readme in this file. I have also merged Pro-Gallery with Material-Kit-React. Many changes have been made to the structure of M-K-R. If you are looking for their Raw-UI please click-through their links. They have made a wonderful UI. The following repository is my adapation of their UI.
+
 # [Material Kit React](https://demos.creative-tim.com/material-kit-react) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Kit%20PRO%20is%20a%20Bootstrap%20UI%20Kit%20with%20a%20fresh,%20new%20design%20inspired%20by%20Google's%20Material%20Design%20%E2%9D%A4%EF%B8%8Fhttps%3A//demos.creative-tim.com/material-kit-pro/presentation.html%20%23bootstrap%20%23material%20%23design%20%23uikit%20%23premium%20%20via%20%40CreativeTim)
 
 
